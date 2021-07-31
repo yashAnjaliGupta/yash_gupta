@@ -1,0 +1,42 @@
+{
+	"basics": {
+		"name": "Yash Gupta",
+		"label": "Student",
+		"email": "2019kucp1020@iiitkota.ac.in",
+		"phone": "7974952969",
+		"summary": "Inquisitive, energetic computer science engineer with a strong foundation in math and programming logic. Seeking to leverage solid development skills with a focus on collaboration, communication, passion, and creativity as a programmer.",
+		"location": {
+			"address": "Jagan Bhiya ki gali,Madhav ganj,Lashkar",
+			"postalCode": "474001",
+			"city": "Gwalior",
+			"countryCode": "India",
+			"region": "Madhya Pradesh"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "yashAnjaliGupta.",
+				"url": "https://github.com/yashAnjaliGupta/"
+			},
+			{
+				"network": "linkedin",
+				"username": "Yash Gupta",
+				"url": "https://www.linkedin.com/in/yash-g-927b24118/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-04-08 //Date",
+		"gpa": "7.44",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "python"]
+	}]
+}
